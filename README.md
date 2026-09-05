@@ -27,4 +27,9 @@ problem-solving and competitive programming skills.
 - Sliding Window
 - Linked List
 - Tree
+
+ # My solutions to competitive programming problems.
   
+## Coding Profiles
+🔗 [Codeforces](https://codeforces.com/profile/yashmungra23)
+🔗 [LeetCode](https://leetcode.com/u/yashmungra_23/)
